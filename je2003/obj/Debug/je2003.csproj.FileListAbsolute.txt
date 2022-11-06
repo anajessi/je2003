@@ -1,0 +1,7 @@
+C:\Users\pc\Source\Repos\je2003\je2003\bin\Debug\je2003.exe.config
+C:\Users\pc\Source\Repos\je2003\je2003\bin\Debug\je2003.exe
+C:\Users\pc\Source\Repos\je2003\je2003\bin\Debug\je2003.pdb
+C:\Users\pc\Source\Repos\je2003\je2003\obj\Debug\je2003.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\je2003\je2003\obj\Debug\je2003.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\je2003\je2003\obj\Debug\je2003.exe
+C:\Users\pc\Source\Repos\je2003\je2003\obj\Debug\je2003.pdb
